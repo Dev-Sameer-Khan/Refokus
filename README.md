@@ -1,6 +1,6 @@
-# Recokus - Awwwards Clone
+# Refokus - Awwwards Clone
 
-Recokus is a high-performance, visually stunning Awwwards-inspired website clone built with **React** and **Framer Motion**. It features smooth animations, elegant transitions, and an immersive user experience.
+Refokus is a high-performance, visually stunning Awwwards-inspired website clone built with **React** and **Framer Motion**. It features smooth animations, elegant transitions, and an immersive user experience.
 
 ## 🚀 Features
 - **Framer Motion Animations** - Seamless UI interactions and fluid animations.
@@ -14,7 +14,7 @@ Recokus is a high-performance, visually stunning Awwwards-inspired website clone
 - **Bundler:** Vite (or Webpack)
 
 ## 📸 Preview
-[Recokus Preview](https://refokusreact.netlify.app/)
+[Refokus Preview](https://refokusreact.netlify.app/)
 
 ## 🏗️ Installation
 
