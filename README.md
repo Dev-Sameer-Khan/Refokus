@@ -14,7 +14,7 @@ Recokus is a high-performance, visually stunning Awwwards-inspired website clone
 - **Bundler:** Vite (or Webpack)
 
 ## 📸 Preview
-![Recokus Preview](https://via.placeholder.com/1200x600.png?text=Recokus+Preview)
+![Recokus Preview]([https://via.placeholder.com/1200x600.png?text=Recokus+Preview](https://refokusreact.netlify.app/))
 
 ## 🏗️ Installation
 
